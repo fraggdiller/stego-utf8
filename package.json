@@ -1,0 +1,17 @@
+{
+  "name": "stego-utf8",
+  "version": "1.0.0",
+  "main": "./src/index.ts",
+  "type": "module",
+  "scripts": {
+    "start": "npx ts-node ./src/index.ts"
+  },
+  "author": "fraggdiller",
+  "license": "UNLICENSE",
+  "devDependencies": {
+    "@types/node": "^20.10.5"
+  },
+  "dependencies": {
+    "typescript": "^5.3.3"
+  }
+}
